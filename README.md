@@ -1,6 +1,8 @@
 # fit_mfrm
 Fit many-facet ordered-response models with a flexible number of facets Use fit_mfrm (mfrmr) With (In) R Software
 
+https://www.youtube.com/watch?v=qjdsmzxC8Pc
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
